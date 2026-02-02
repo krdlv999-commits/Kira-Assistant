@@ -1,0 +1,6 @@
+1) откройте файл .env и введите свой API, без кавычек
+OPENAI_API_KEY=sk-ваши данные ….
+
+2) также при первом запуске python предложит установить необходимые библиотеки
+
+3) проверьте пути к программам, например: CHROME_PATH = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
